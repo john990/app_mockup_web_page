@@ -9,21 +9,11 @@ description: Free to use static landing page template to showcase your mobile ap
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ocr.gravity22.com" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
-twitter_username: gravity22
-github_username:  gravity22
 author: Gravity22 Team
 logo: assets/images/large-logo.png
-twitter:
-  username: gravity22
-social:
-  name: gravity22
-  links:
-    - https://twitter.com/gravity22
 
 languages: ["en"]
 ampdir: amp
-
-github: https://github.com/gravity22
 
 ### Google webmaster tools, Google Analytics, Doorbell and Cookie consent uncomment and put the API key
 #webmaster_verifications:

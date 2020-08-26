@@ -1,25 +1,18 @@
 name: Easy OCR
 description: Image Text recognition & translation
 full_description: '
-Use modern text recognition technology to quickly and high-quality recognize text on pictures. Free, no limit on the number of scans!<br>
+Use modern text recognition technology to quickly and high-quality recognize text on pictures. 
+<br>Free, no limit on the number of scans!<br>
 
 <br>Most accurate OCR scanner app with 99%+ accuracy and supporting most popular 60+ languages in the world.
 <br>
 <br>Features of Text Scanner
-<br>● World highest speed reading
-<br>● World highest accuracy reading
-<br>● Support photos of your album
-<br>● Support more than 60+ languages
-<br>● Support handwriting
-<br>● Recognized text, it is possible to perform the following operation
-<br>    - URL access
-<br>    - Telephone call
-<br>    - Copy to clipboard
-<br>    - Send e-mail
-<br>    - Save to Google Drive
-<br>    - Save to Google Keep
-<br>    - Share on Google+
-<br>    - Share on Google Hangouts
+<br>-- World highest speed reading
+<br>-- World highest accuracy reading
+<br>-- Support photos of your album
+<br>-- Support more than 60+ languages
+<br>-- Support handwriting
+<br>.....
 '
 android: https://play.google.com/store/apps/details?id=com.spaceship.ocr.textscanner.imagetotext
 iOS: https://apps.apple.com/us/id1527077682
@@ -28,3 +21,4 @@ screenshots:
   - 2.png
   - 3.png
   - 4.png
+  - 5.png
