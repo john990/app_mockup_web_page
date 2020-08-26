@@ -4,3 +4,7 @@ app:
 
 footer:
   copyright: Made with ❤️ by <a href="https://gravity22.com" target="_blank">Gravity22</a>
+  links:
+    - title: 'Contact us: report@gravity22.com'
+      url: 'mailto:report@gravity22.com'
+      target: _blank
