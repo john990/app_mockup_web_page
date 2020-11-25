@@ -1,18 +1,49 @@
 name: App Mockup
 description: Make Pergect Screenshots For Apps.
 full_description: '
-Use modern text recognition technology to quickly and high-quality recognize text on pictures. 
-<br>Free, no limit on the number of scans!<br>
-
-<br>Most accurate OCR scanner app with 99%+ accuracy and supporting most popular 60+ languages in the world.
-<br>
-<br><strong>Features of Text Scanner</strong>
-<br>- World highest speed reading
-<br>- World highest accuracy reading
-<br>- Support photos of your album
-<br>- Support more than 60+ languages
-<br>- Support handwriting
-<br>.....
+App Mockup is the easiest to use screenshot creator, a dedicated screenshot mockup generator.<br/>
+<br/>
+Design once, use on all devices.<br/>
+We simplify the process of designing and generating professional screenshots for iOS and Android apps simultaneously.<br/>
+<br/>
+From a single responsive design, App Mockup exports all required screenshot sizes for apps on the Apple App & Google Play Store (including iPhone, iPad, Android phones & tablets).<br/>
+<br/>
+We are the only tool who provide localization, panoramic backgrounds, 3D devices, rich text with emojis and much more. All exported in high resolution PNG images on demand, ready for upload.<br/>
+<br/>
+Short on time? Muddling through Sketch, Photoshop or mockup generators? Not sure which screenshot sizes you need? Looking for an easier way?<br/>
+You have just found App Mockup.<br/>
+<br/>
+Functions:<br/>
+<br/>
+* Templates<br/>
+Bring your app screenshots to life faster than ever. App Mockup has templates for every type of app. Update device frames, layouts, gradients, title and subtitle at the click of a button.<br/>
+<br/>
+* Store Preview<br/>
+See how your screenshots will look on the App Store and Play Store for every device. You can even preview in Dark Mode.<br/>
+<br/>
+* Devices<br/>
+Choose real devices, solid color or clay frames. Resize, rotate and position the device anywhere in the screenshot. You can even add two devices.<br/>
+<br/>
+* Layouts<br/>
+There are more than 30 different layout templates you can choose from, with more being added every time.<br/>
+<br/>
+* Background<br/>
+Set your background to a solid color, gradient, image or even a panoramic, like we showed you.<br/>
+<br/>
+* Title & Subtitle<br/>
+With more options than ever, update the Title and Subtitle to match your design goals.<br/>
+<br/>
+* Font Picker<br/>
+Choosing a perfect font with the new stunning Font Picker is a pleasure. You can even preview the screenshot before chooing any of the 960 Google fonts.<br/>
+<br/>
+* Translate<br/>
+Translate, localize and export your screenshots for more countries. Instant translation into 38 languages. Localising your app could help reach an additional 40% of the world!<br/>
+<br/>
+* Export<br/>
+One design, export all the screenshots required by the app store, which is fast and easy to use.<br/>
+<br/>
+So please use App Mockup to create compelling screenshots as soon as possible!<br/>
+<br/>
 '
 android: https://play.google.com/store/apps/details?id=com.spaceship.ocr.textscanner.imagetotext
 iOS: https://apps.apple.com/us/id1527077682
@@ -22,3 +53,5 @@ screenshots:
   - 3.png
   - 4.png
   - 5.png
+  - 6.png
+  - 7.png
